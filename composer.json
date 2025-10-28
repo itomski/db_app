@@ -4,7 +4,8 @@
         "doctrine/dbal": "^4",
         "symfony/cache": "^7",
         "ramsey/uuid": "*",
-        "fakerphp/faker": "*"
+        "fakerphp/faker": "*",
+        "blakvghost/php-validator": "*"
     },
     "autoload": {
         "psr-0": {
